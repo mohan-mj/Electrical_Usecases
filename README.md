@@ -2,6 +2,14 @@
 
 ## Datasets
 
+[Inverter Data Set](https://www.kaggle.com/datasets/stender/inverter-data-set)
+The data set comprises several sensor data collected from a typical combined system between an inverter, an induction motor, and a control system, deployed on a test bench.
+Test bench measurements were collected by the LEA department at Paderborn University.
+
+An inverter is a power electronic component with transistors (read 'switches'), that determine how the battery voltage (so called DC-link voltage) is applied on the three phase circuits of the electric motor.
+The control unit decides according to some control strategy the current switching states of the inverter at each discrete point in time.
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F642765%2Fff29577cce2f7018785f91a5d1a3805c%2FScreenshot%20from%202020-10-27%2011-39-16.png?generation=1603795173235540&alt=media">
+
 [Electrical Fault detection and classification](https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification):
 
 The transmission line is the most crucial part of the power system. The requirement of power and its allegiance has grown up exponentially over the modern era, and the prominent role of a transmission line is to transmit electric power from the source area to the distribution network. The electrical power system consists of so many complex dynamic and interacting elements that are always prone to disturbance or an electrical fault.
@@ -23,10 +31,3 @@ Efficient control can be achieved only if the dynamic behavior of the drive trai
 The task of the controller is to achieve a desired torque at the vehicle's wheels by controlling the currents of the electric motor via the applied voltages.
 The most interesting task here is hence to be able to accurately predict the currents for a given switching command (also called element vector).
 
-[Inverter Data Set](https://www.kaggle.com/datasets/stender/inverter-data-set)
-The data set comprises several sensor data collected from a typical combined system between an inverter, an induction motor, and a control system, deployed on a test bench.
-Test bench measurements were collected by the LEA department at Paderborn University.
-
-An inverter is a power electronic component with transistors (read 'switches'), that determine how the battery voltage (so called DC-link voltage) is applied on the three phase circuits of the electric motor.
-The control unit decides according to some control strategy the current switching states of the inverter at each discrete point in time.
-<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F642765%2Fff29577cce2f7018785f91a5d1a3805c%2FScreenshot%20from%202020-10-27%2011-39-16.png?generation=1603795173235540&alt=media">
